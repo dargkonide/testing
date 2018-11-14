@@ -1,7 +1,12 @@
+
+flomaster
+flomaster3_git
+flomaster5
+=======
 master
 mas2ter
-<<<<<<< HEAD
+
 mas3ter
 =======
 master-bombaster
->>>>>>> refs/remotes/origin/master
+
